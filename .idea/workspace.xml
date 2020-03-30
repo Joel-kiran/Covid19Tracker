@@ -1,9 +1,197 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+<<<<<<< Updated upstream
+    <list default="true" id="1e8576aa-32bc-42c7-af63-038c73185b76" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="8daa26a8-0530-42de-9534-c166d4d0bf16" name="Default Changelist" comment="covid 19 Tracker">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/basicReact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/coronaStatus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/covid.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Covid19Tracker.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+    </list>
+>>>>>>> Stashed changes
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+<<<<<<< Updated upstream
+=======
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+>>>>>>> Stashed changes
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1ZhodonooCFsWXwtzos5oY0MNPq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+<<<<<<< Updated upstream
+=======
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+>>>>>>> Stashed changes
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< Updated upstream
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+=======
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+>>>>>>> Stashed changes
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/components" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8daa26a8-0530-42de-9534-c166d4d0bf16" name="Default Changelist" comment="" />
+      <created>1585300777182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585300777182</updated>
+      <workItem from="1585300781353" duration="783000" />
+      <workItem from="1585307392022" duration="19095000" />
+      <workItem from="1585384168977" duration="3161000" />
+      <workItem from="1585402183485" duration="8000" />
+      <workItem from="1585416107624" duration="402000" />
+      <workItem from="1585497040128" duration="8557000" />
+      <workItem from="1585553129568" duration="3000" />
+      <workItem from="1585571285643" duration="1627000" />
+      <workItem from="1585574193712" duration="835000" />
+      <workItem from="1585579811975" duration="849000" />
+    </task>
+    <task id="LOCAL-00001" summary="covid 19 Tracker">
+      <created>1585505223601</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585505223601</updated>
+    </task>
+    <task id="LOCAL-00002" summary="covid 19 Tracker">
+      <created>1585505257720</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585505257720</updated>
+    </task>
+    <task id="LOCAL-00003" summary="covid 19 Tracker">
+      <created>1585505348911</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1585505348911</updated>
+    </task>
+    <task id="LOCAL-00004" summary="covid 19 Tracker">
+      <created>1585574208474</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1585574208475</updated>
+    </task>
+    <task id="LOCAL-00005" summary="covid 19 Tracker">
+      <created>1585579856180</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1585579856180</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="covid 19 Tracker" />
+    <option name="LAST_COMMIT_MESSAGE" value="covid 19 Tracker" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="85" width="1046" height="935" key="CommitChangelistDialog2" timestamp="1585580579069">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="465" y="85" width="1046" height="935" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1585580579069" />
+    <state x="482" y="175" key="SettingsEditor" timestamp="1585301292363">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="175" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1585301292363" />
+    <state x="488" y="225" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1585580573342">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="488" y="225" width="1000" height="654" key="Vcs.Push.Dialog.v2/67.27.1853.1053@67.27.1853.1053" timestamp="1585580573342" />
+    <state x="719" y="455" width="548" height="195" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585580702050">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="719" y="455" width="548" height="195" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1585580702050" />
+    <state x="693" y="303" width="778" height="499" key="git4idea.merge.GitPullDialog" timestamp="1585505408731">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="693" y="303" width="778" height="499" key="git4idea.merge.GitPullDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585505408731" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="49" width="1046" height="1007" key="CommitChangelistDialog2" timestamp="1585581653137">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="465" y="49" width="1046" height="1007" key="CommitChangelistDialog2/67.27.1853.1053@67.27.1853.1053" timestamp="1585581653137" />
+    <state x="719" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585581671051">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="719" y="455" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1585581671051" />
   </component>
 </project>

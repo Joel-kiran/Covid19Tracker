@@ -1,0 +1,34 @@
+body {
+    background-image: url("covid.jpg");
+    background-color: #cccccc;
+}
+#headline{
+    position:absolute;
+    top:6%;
+    left:35%;
+    color:white;
+}
+
+.dropdown-basic-button1 {
+    position:absolute;
+    top:5%;
+    height:10%;
+    width:70%;
+    overflow: auto;
+}
+
+#search {
+    position: absolute;
+    left:23%;
+    top:40%;
+    width:50%;
+    height:40%;
+    overflow: auto;
+}
+#searchText{width:50%; color: #282c34;}
+#prefixSearchMatch {width:50%; color: #282c34; background-color: white}
+#countryName {position:absolute;top:10%;right:10%;color:white}
+#confirmed {position:absolute;top:15%;right:10%;color:white}
+#active {position:absolute;top:20%;right:10%;color:white}
+#recovered {position:absolute;top:25%;right:10%;color:white}
+#deaths {position:absolute;top:30%;right:10%;color:white}
