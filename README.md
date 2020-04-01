@@ -1,2 +1,2 @@
 # Covid19Tracker
-You Guys just need npm installed to setup and run the Tracker on your local machine
+You Guys just need npm installed too setup and run the Tracker on your local machine
